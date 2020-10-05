@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleProj\Program2020-10-05\Program2020-10-05\bin\Debug\Program2020-10-05.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleProj\Program2020-10-05\Program2020-10-05\bin\Debug\Program2020-10-05.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleProj\Program2020-10-05\Program2020-10-05\bin\Debug\Program2020-10-05.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleProj\Program2020-10-05\Program2020-10-05\obj\Debug\Program2020-10-05.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleProj\Program2020-10-05\Program2020-10-05\obj\Debug\Program2020-10-05.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ConsoleProj\Program2020-10-05\Program2020-10-05\obj\Debug\Program2020-10-05.pdb
